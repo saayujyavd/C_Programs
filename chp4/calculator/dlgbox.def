@@ -1,0 +1,3 @@
+LIBRARY dlgbox.dll
+EXPORTS
+    createDlgBox @100
