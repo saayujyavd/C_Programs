@@ -1,7 +1,7 @@
 ******************************************************************************
                     C_Programs by SAAYUJYA V. DESHPANDE
                     
-This repository contains the projects I made in the C Programming Language
+This repository contains the projects I made while reading Dennis M. Ritchie and Brian W. Kernighan's "The C Programming Language"
 
 Getting Started:
 
